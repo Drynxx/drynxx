@@ -12,15 +12,15 @@
 <br />
 <br>
 
-Hi, I'm [Matt !](#), a passionate self-taught Code Writer 🚀 from Romania.
+Hi, I'm [Matt!](#), a passionate self-taught Code Writer 🚀 from Romania.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on very cool projects :wink:;
+- 👨🏽‍💻 I’m currently working on very cool projects:wink:;
 - 🌱 I’m currently learning to be a better Developer; 
-- 📫 How to reach me: [@matt](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNtdVVxFWsztvghSHLCNWHrBFKhGHptlFRsWXKGDQjCnwDgQZwcbwrbBnDjcdvzlpWHnvB);
+- 📫 How to reach me: [@here](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNtdVVxFWsztvghSHLCNWHrBFKhGHptlFRsWXKGDQjCnwDgQZwcbwrbBnDjcdvzlpWHnvB);
 
 **Languages and Tools:**  
 
