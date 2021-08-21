@@ -2,7 +2,7 @@
 <a href="https://discord.com/Matt-_-#1337">
   <img align="left" alt="Matt's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/MattiasTarr">
+<a href="https://twitter.com/">
   <img align="left" alt="Matt's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/edgarorozco1999">
