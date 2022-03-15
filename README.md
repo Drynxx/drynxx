@@ -5,9 +5,7 @@
 <a href="https://twitter.com/">
   <img align="left" alt="Matt's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-*/<a href="https://open.spotify.com/user/edgarorozco1999">
-  <img align="left" alt="Matt's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> */
+
 
 <br />
 <br>
