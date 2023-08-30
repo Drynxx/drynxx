@@ -1,6 +1,6 @@
 ### Hey there 
 <a href="https://discord.com/Matt-_-#1337">
-  <img align="left" alt="Matt's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Matt's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://twitter.com/MattiasTarr">
   <img align="left" alt="Matt's Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" />
